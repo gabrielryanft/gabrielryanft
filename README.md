@@ -10,7 +10,7 @@ I'm Gabriel, a ✨_teenager_✨ who loves to start things:
 - 🕵️‍♂️ I’m looking to collaborate on anything that teaches me something new.
 - 🧭 I’m looking for help with: Everything; I'm new in the programming field.
   - 💬 Help me with: HTML, CSS, JS, and Python.
-- 📫 How to reach me: My [Linkedin account](https://www.linkedin.com/in/gabrieltressoldi) and [Instagram](https://www.instagram.com/gabrieltressoldi_/)
+- 📫 How to reach me: My [Linkedin account](https://www.linkedin.com/in/gabrieltressoldi) and [Instagram account](https://www.instagram.com/gabrieltressoldi_/)
 - ♟ My hobby: I play chess! Play with me on [chess.com](https://www.chess.com/member/gabryan13)!
 
 > [!IMPORTANT]
