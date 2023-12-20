@@ -1,6 +1,6 @@
 ## Welcome!
 
-I'm Gabriel, a ✨_teenager_✨ who loves to start things: 
+Hello world! I'm Gabriel, a ✨ _teenager_ ✨ who loves to start things: 
 > "The one who starts is halfway done. **sapere aude!**"[^1] (Horace[^2])
 
 ### About me:
