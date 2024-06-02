@@ -6,15 +6,22 @@ Hello world! I'm Gabriel, a ✨ _teenager_ ✨ who loves to start things:
 ### About me:
 
 - 🧠 I’m currently working on: learning as much as possible!
-- 📚 I’m currently learning HTML, CSS, JS, and Python.
-- 🕵️‍♂️ I’m looking to collaborate on anything that teaches me something new.
-- 🧭 I’m looking for help with: Everything; I'm new in the programming field.
-  - 💬 Help me with: HTML, CSS, JS, and Python.
+- 📚 I’m currently learning HTML, CSS, JavaScript, Python and Linux.
+  <details open>
+    <summary>🤌 Languages ​​I know the most</summary>
+    
+    | Rank | Languages |
+    |-----:|-----------|
+    |     1| HTML & CSS|
+    |     2| JavaScript|
+    |     3| Python    |
+    |     4| Bash      |
+  
+  </details>
+- 🕵️‍♂️ I’m looking to collaborate on ANYTHING THAT TEACHES ME SOMETHING NEW.
 - 📫 How to reach me: My [Linkedin account](https://www.linkedin.com/in/gabrieltressoldi) and [Instagram account](https://www.instagram.com/gabrieltressoldi_/).
 - ♟ My hobby: I play chess! Play with me on [chess.com](https://www.chess.com/member/gabryan13)!
-
-> [!IMPORTANT]
-> I'm new in the programming field
+<p><sub>Gabriel R. totosão</sub></p>
 
 [^1]: [Wikipedia article about the Latin term "**sapere aude**".](https://en.wikipedia.org/wiki/Sapere_aude)
 [^2]: [Wikipedia article about Horace.](https://en.wikipedia.org/wiki/Horace)
