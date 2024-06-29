@@ -19,7 +19,7 @@ Hello world! I'm Gabriel, a ✨ _teenager_ ✨ who loves to start things:
   
   </details>
 - 🕵️‍♂️ I’m looking to collaborate on ANYTHING THAT TEACHES ME SOMETHING NEW.
-- 📫 How to reach me: My [Linkedin account](https://www.linkedin.com/in/gabrieltressoldi) and [Instagram account](https://www.instagram.com/gabrieltressoldi_/).
+- 📫 How to reach me: My [Linkedin account](https://www.linkedin.com/in/gabrieltressoldi) and [E-mail](gabrielryanf.t@gmail.com).
 - ♟ My hobby: I play chess! Play with me on [chess.com](https://www.chess.com/member/gabryan13)!
 <p><sub>Gabriel R. totosão</sub></p>
 
