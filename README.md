@@ -1,12 +1,9 @@
-## Welcome!
-
-Hello world! I'm Gabriel, a ✨ _teenager_ ✨ who loves to start things: 
 > "The one who starts is halfway done. **sapere aude!**"[^1] (Horace[^2])
 
 ### About me:
 
-- 🧠 I’m currently working on: learning as much as possible!
-- 📚 I’m currently learning HTML, CSS, JavaScript, Python and Linux.
+- I’m currently working on: learning as much as possible!
+- I’m currently learning HTML, CSS, JavaScript, Python and Linux.
   <details open>
     <summary>🤌 Languages ​​I know the most</summary>
     
@@ -18,8 +15,8 @@ Hello world! I'm Gabriel, a ✨ _teenager_ ✨ who loves to start things:
     |     4| Bash      |
   
   </details>
-- 🕵️‍♂️ I’m looking to collaborate on ANYTHING THAT TEACHES ME SOMETHING NEW.
-- 📫 How to reach me: My [Linkedin account](https://www.linkedin.com/in/gabrieltressoldi) and [E-mail](gabrielryanf.t@gmail.com).
+- I’m looking to collaborate on ANYTHING THAT TEACHES ME SOMETHING NEW.
+- How to reach me: My [Linkedin account](https://www.linkedin.com/in/gabrieltressoldi) and [E-mail](gabrielryanf.t@gmail.com).
 - ♟ My hobby: I play chess! Play with me on [chess.com](https://www.chess.com/member/gabryan13)!
 <p><sub>Gabriel R. totosão</sub></p>
 
