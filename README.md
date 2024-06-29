@@ -7,7 +7,7 @@
   - HTML and CSS
   - Python
   <details open>
-    <summary>🤌 Languages ​​I know the most</summary>
+    <summary>Languages ​​I know the most</summary>
     
     | Rank | Languages |
     |-----:|-----------|
