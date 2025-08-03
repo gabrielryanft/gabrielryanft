@@ -1,5 +1,5 @@
 
-> "The one who starts is halfway done. **sapere aude!**"[^1] (Horace[^2])
+> "The one who starts is halfway done. **sapere aude!**"[^1] --Horace[^2]
 
 <p><sub>Gabriel R. totosão</sub></p>
 
